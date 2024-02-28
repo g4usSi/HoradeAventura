@@ -8,6 +8,7 @@ Es una serie que invita/hace  un llamado a sumergirse en aventura, magia y miste
 
 ## Wiki de la serie
 [[Enlace al archivo Wiki web :), para mas informacion](https://horadeaventura.fandom.com/es/wiki/Hora_de_Aventura)]
+
 _La serie sigue las aventuras de Finn, un niño humano, y su mejor amigo y hermano adoptivo, Jake, un perro con la capacidad para cambiar de forma como crecer o reducirse a voluntad. Finn y Jake viven en la Tierra post-apocalíptica de Ooo. Llena de restos de una civilización destruida y reducida a escombros, con diferentes mutaciones y demonios la vida siempre es una aventura llena de peligros e inquietudes._
 
 ## Personajes de la Serie
