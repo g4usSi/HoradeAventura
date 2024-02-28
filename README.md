@@ -18,4 +18,4 @@ Es una serie que invita/hace  un llamado a sumergirse en aventura, magia y miste
 * Dulce Princesa: Una cientifica hecha de dulce :princess:
 * El Rey Helado: Un mago que crea hielo :shaved_ice:
 
-# Hasta la proxima :raising_hand_man:
+### Hasta la proxima :raising_hand_man:
