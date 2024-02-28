@@ -13,6 +13,9 @@ Es una serie que invita/hace  un llamado a sumergirse en aventura, magia y miste
 * Finn: Un niño humano  :boy:
     - Es el protagonista principal de la serie
 * Jake: Un perro magico :dog:
+    - Es el mejor amigo del protagonista y su hermano adoptivo
 * Marceline: Una mujer vampiro :vampire_woman:
 * Dulce Princesa: Una cientifica hecha de dulce :princess:
 * El Rey Helado: Un mago que crea hielo :shaved_ice:
+
+![Despedida] (https://static.wikia.nocookie.net/horadeaventura/images/c/c2/CaracolRJS.png/revision/latest/scale-to-width-down/1000?cb=20140518032802&path-prefix=es)
