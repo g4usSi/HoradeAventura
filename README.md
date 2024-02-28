@@ -18,4 +18,4 @@ Es una serie que invita/hace  un llamado a sumergirse en aventura, magia y miste
 * Dulce Princesa: Una cientifica hecha de dulce :princess:
 * El Rey Helado: Un mago que crea hielo :shaved_ice:
 
-![Despedida] (https://static.wikia.nocookie.net/horadeaventura/images/c/c2/CaracolRJS.png/revision/latest/scale-to-width-down/1000?cb=20140518032802&path-prefix=es)
+# Hasta la proxima :raising_hand_man:
